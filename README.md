@@ -2,7 +2,7 @@
 
 This is the **backend** for a **To-Do App**, built with **Laravel** and **MySQL**, providing a RESTful API for a Next.js 15 frontend.
 
-![Laravel 12](/logo-laravel.webp "Todo App Screenshot")
+![Laravel 12](./public/logo-laravel.webp "Todo App Screenshot")
 
 ---
 
